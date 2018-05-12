@@ -1,0 +1,39 @@
+_repo: Thought-Culture--Or-Practical-Mental-Training_41519
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41519-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Atkinson, William Walker
+    aliases:
+    - Panchadasi, Swami
+    - Ramacharaka, Yogi
+    - Vishita, Bhakta
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '4862'
+    url: http://www.gutenberg.org/2009/agents/4862
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/d#a662
+    - http://en.wikipedia.org/wiki/William_Walker_Atkinson
+    - http://www.gutenberg.org/browse/authors/t#a5407
+description: Though he typically wrote under the guise of anonymity, using an array
+  of pseudonyms and pen names, author and thinker William Walker Atkinson was an enormously
+  influential figure in the ""New Thought"" movement. In fact, he is often credited
+  with being the original source of the ideas that later coalesced under the term
+  ""the Law of Attraction."" The volume Thought-Culture offers an array of practical
+  tips for those who are interested in improving their mental acuity.
+gutenberg_issued: '2012-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41519'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Thought and thinking'
+title: Thought-Culture; Or, Practical Mental Training
+url: http://www.gutenberg.org/ebooks/41519
